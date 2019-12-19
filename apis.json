@@ -1,0 +1,80 @@
+{
+    "name": "PayAnywhere",
+    "description": "Transform your transactions with PayAnywhere. A simple and secure way to accept credit cards and manage your business. Accept mobile payments from our robust payment processing app and handheld 3-in-1 credit card reader. Use the Storefront point of sal...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1232-payanywhere.jpg",
+    "tags": [
+        "credit",
+        "financial services",
+        "has api",
+        "have api",
+        "no api definition",
+        "payments"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/payanywhere\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "PayAnywhere",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1232-payanywhere.jpg",
+            "humanURL": "http:\/\/www.payanywhere.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/payanywhere-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/www.payanywhere.com"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.payanywhere.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.payanywhere.com\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/payanywhere"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/payanywhere"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.payanywhere.com\/developers"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/www.payanywhere.com\/developers"
+        },
+        {
+            "type": "Email",
+            "url": "developers@payanywhere.com"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/www.payanywhere.com\/pricing"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/payanywhere"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/payanywhere.com"
+        }
+    ]
+}
